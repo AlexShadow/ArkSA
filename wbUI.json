@@ -6,7 +6,7 @@
 			"openbutton": 0,
 			"hideicon": false,
 			"hideiconafter": 60,
-			"iconurl": "https://i.imgur.com/OZ6xOjY.png",
+			"iconurl": "https://pic.survivalhost.org/images/2024/12/14/ico.png",
 			"disableicontext": false,
 			"iconposition": 3,
 			"icontextcolor": 0,
@@ -18,7 +18,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Welcome",
-				"imageurl": "https://i.imgur.com/mGt3cAF.png",
+				"imageurl": "https://pic.survivalhost.org/images/2024/12/14/ico.png",
 				"content": [
 					{
 						"title": "Правила",
